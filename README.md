@@ -101,5 +101,21 @@ cat diamond_configs.txt
 ```
 ۵. لینک‌ها را کپی کرده و در برنامه v2rayNG (یا برنامه‌های مشابه) پیست کنید و از اینترنت آزاد لذت ببرید!
 
+
+---
+---
+
+## 💖 Support & Donate / حمایت مالی
+
+If this tool helped you bypass internet restrictions and saved your time, you can support its future development by buying me a coffee! ☕
+
+اگر این پروژه برای شما مفید بود و باعث شد به اینترنت آزاد دسترسی پیدا کنید، می‌توانید با حمایت مالی خود به من برای توسعه و آپدیت‌های بعدی این ابزار انگیزه بدهید! ☕
+
+
+**🪙 Crypto Wallets (TRC20 Network):**
+* **USDT (Tether):** `TU2J1k4mCMtLQdjHcfgP49bTzxjyUQJYM9`
+* **TRX (Tron):** `TU2J1k4mCMtLQdjHcfgP49bTzxjyUQJYM9`
+
 ---
 *Created with ❤️ by **[sMb](https://github.com/smblue07)***
+
